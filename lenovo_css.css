@@ -1,0 +1,31 @@
+body{
+    background-color: gray;
+    margin: 0;
+    padding: 0;
+}
+
+div{
+    background-color: white;
+    position: absolute;
+    display: block;
+    border: 1px solid black;
+    border-radius: 10px 10px 10px 10px;
+    min-width: 500px;
+    max-width: 500px;
+    min-height: 450px;
+    max-height: 450px;
+    margin: 0vh 20vw 0vh 20vw;
+}
+
+img{
+    float: left;
+}
+h2{
+    text-shadow: 2px;
+    text-color: red;
+}
+h4{
+    float: right;
+}
+
+    
